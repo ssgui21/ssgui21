@@ -86,12 +86,16 @@ Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, e
 ### 📊 GitHub
 
 <p align="left">
+  ### 📊 GitHub
+
+<p align="left">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    src="https://SEU-PROJETO.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&langs_count=8&locale=pt-br"
+    src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"
   />
+</p>
 </p>
