@@ -96,5 +96,10 @@ Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, e
 ### 📊 GitHub
 
 <p>
-    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/)
+   <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    width="30px"
+    alt="GitHub"
+    title="GitHub"
+/>
 </p>
