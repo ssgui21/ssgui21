@@ -23,11 +23,11 @@
 
 ### 🎯 O que eu faço
 
-- 🌱 Estou sempre aprendendo e evoluindo no ecossistema **C#/.NET**
-- 🔧 Construo aplicações web com **ASP.NET Core** e **Razor**
-- 🗄️ Modelo e consulto dados com **Entity Framework Core** e **SQL Server**
-- 🔌 Crio e consumo **APIs REST** e integrações
-- 🎓 Curso Sistemas de Informação (bacharelado, previsão de conclusão: dez/2027)
+* 🌱 Evoluo continuamente no ecossistema **C#/.NET**
+* 🔧 Construo aplicações web com **ASP.NET Core** e **Razor**
+* 🗄️ Modelo e consulto dados com **Entity Framework Core** e **SQL Server**
+* 🔌 Crio e consumo **APIs REST** e integrações
+* 🎓 Curso Sistemas de Informação (bacharelado, previsão de conclusão: dez/2027)
 
 ---
 
@@ -48,12 +48,9 @@
   </picture>
 </p>
 
-**Back-end:** C# · .NET · ASP.NET Core · Entity Framework Core · APIs REST
-<br>
-**Front-end:** Razor · HTML · CSS · JavaScript
-<br>
-**Banco de dados:** SQL Server
-<br>
+**Back-end:** C# · .NET · ASP.NET Core · Entity Framework Core · APIs REST <br>
+**Front-end:** Razor · HTML · CSS · JavaScript <br>
+**Banco de dados:** SQL Server <br>
 **Ferramentas:** Git · GitHub · Visual Studio
 
 ---
@@ -64,9 +61,19 @@
 
 Atuação no desenvolvimento de sistemas web, envolvendo:
 
-- Desenvolvimento Full Stack com C# / .NET
-- ASP.NET Core / Razor
-- Entity Framework Core e SQL Server
-- APIs REST e integrações
-- HTML / CSS / JavaScript
-- Regras de negócio, testes e manutenção
+* Desenvolvimento Full Stack com C# / .NET
+* ASP.NET Core / Razor
+* Entity Framework Core e SQL Server
+* APIs REST e integrações
+* HTML / CSS / JavaScript
+* Regras de negócio, testes e manutenção
+
+---
+
+### 📊 GitHub Status
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Guilherme-Santos-da-Silva?style=for-the-badge&label=Seguidores" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/Guilherme-Santos-da-Silva?style=for-the-badge&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/created-at/Guilherme-Santos-da-Silva?style=for-the-badge&label=GitHub%20desde" alt="GitHub desde" />
+</p>
