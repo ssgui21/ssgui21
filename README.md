@@ -96,12 +96,12 @@ Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, e
 ### 📊 GitHub
 
 <p>
- <img
+<img
     align="left"
     alt="GitHub"
     title="GitHub"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10px; filter: invert(1);"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 </p>
