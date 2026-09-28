@@ -80,14 +80,3 @@ Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, e
 * HTML / CSS / JavaScript
 * Regras de negócio
 * Testes e manutenção
-
----
-
-### 📈 Atividade
-
-<p align="left">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"
-    alt="Gráfico de contribuições"
-  />
-</p>
