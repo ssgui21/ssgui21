@@ -87,8 +87,9 @@ Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, e
 
 <p align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide_rank=true&hide=issues&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
   />
 </p>
+
 
