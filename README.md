@@ -68,12 +68,11 @@ Atuação no desenvolvimento de sistemas web, envolvendo:
 * HTML / CSS / JavaScript
 * Regras de negócio, testes e manutenção
 
----
-
-### 📊 GitHub Status
+<!-- ### 📊 GitHub Status
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/Guilherme-Santos-da-Silva?style=for-the-badge&label=Seguidores" alt="Seguidores" />
   <img src="https://img.shields.io/github/stars/Guilherme-Santos-da-Silva?style=for-the-badge&label=Stars" alt="Stars" />
   <img src="https://img.shields.io/github/created-at/Guilherme-Santos-da-Silva?style=for-the-badge&label=GitHub%20desde" alt="GitHub desde" />
 </p>
+--> 
