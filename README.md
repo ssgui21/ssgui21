@@ -96,7 +96,7 @@ Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, e
 ### 📊 GitHub
 
 <p>
-  <img
+ <img
     align="left"
     alt="GitHub"
     title="GitHub"
