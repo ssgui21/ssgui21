@@ -1,36 +1,122 @@
-# Guilherme Santos Da Silva
+# 👨🏻‍💻 Guilherme
 
-**Estudante de Sistemas de Informação · Desenvolvedor Full Stack C#**
+**`Desenvolvedor Full Stack C#`**
 
-Desenvolvimento de sistemas com foco em **C#/.NET**, APIs, banco de dados e aplicações web.
+Estudante de Sistemas de Informação e desenvolvedor com foco no ecossistema **C#/.NET**. Atualmente atuo no desenvolvimento e evolução do **Sistema de Gestão do Código de Posturas**, trabalhando com aplicações web, APIs, banco de dados e integrações.
 
-### 💻 Stack
+<p align="left">
+    <a href="https://github.com/">
+        <img
+            alt="GitHub"
+            title="GitHub"
+            src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+</p>
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+---
+
+### 💻 Tecnologias
+
+<img
+ align="left"
+ alt="C#"
+ title="C#"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/> <img
+ align="left"
+ alt=".NET"
+ title=".NET"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+/> <img
+ align="left"
+ alt="ASP.NET Core"
+ title="ASP.NET Core"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+/> <img
+ align="left"
+ alt="HTML"
+ title="HTML"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/> <img
+ align="left"
+ alt="CSS"
+ title="CSS"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/> <img
+ align="left"
+ alt="JavaScript"
+ title="JavaScript"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/> <img
+ align="left"
+ alt="SQL Server"
+ title="SQL Server"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+/> <img
+ align="left"
+ alt="Git"
+ title="Git"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<br/>
+<br/>
+
+---
 
 ### 🏛️ Experiência
 
-**Prefeitura Municipal de Praia Grande — Desenvolvimento de Sistemas**
+**Prefeitura Municipal de Praia Grande**
+`Desenvolvimento de Sistemas`
 
-Atuação no desenvolvimento e evolução do **Sistema de Gestão do Código de Posturas**, trabalhando com:
+Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, envolvendo:
 
+* Desenvolvimento Full Stack
 * C# / .NET
 * ASP.NET Core / Razor
 * Entity Framework Core
 * SQL Server
 * APIs e integrações
 * HTML / CSS / JavaScript
-* Desenvolvimento Full Stack
-* Testes e manutenção de sistemas
+* Regras de negócio
+* Testes e manutenção
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/)
+### 📊 GitHub
+
+<p>
+    <img
+        align="left"
+        alt="GitHub Stats"
+        height="180"
+        src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+
+```
+<img
+    align="left"
+    alt="Top Languages"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+/>
+```
+
+</p>
