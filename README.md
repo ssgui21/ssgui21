@@ -27,8 +27,8 @@ Estudante de Sistemas de Informação e desenvolvedor com foco no ecossistema **
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 /> <img
  align="left"
- alt="ASP.NET Core"
- title="ASP.NET Core"
+ alt=".NET"
+ title=".NET"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
@@ -86,22 +86,7 @@ Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, e
 * ASP.NET Core / Razor
 * Entity Framework Core
 * SQL Server
-* APIs Rest e Integrações
+* APIs REST e integrações
 * HTML / CSS / JavaScript
-* Regras de Negócio
-* Testes e Manutenção
-
----
-
-### 📊 GitHub
-
-<p>
-<img
-    align="left"
-    alt="GitHub"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px; filter: invert(1);"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-</p>
+* Regras de negócio
+* Testes e manutenção
