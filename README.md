@@ -27,13 +27,6 @@ Estudante de Sistemas de Informação e desenvolvedor com foco no ecossistema **
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 /> <img
  align="left"
- alt=".NET"
- title=".NET"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-/> <img
- align="left"
  alt="ASP.NET Core"
  title="ASP.NET Core"
  width="30px"
@@ -93,30 +86,15 @@ Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, e
 * ASP.NET Core / Razor
 * Entity Framework Core
 * SQL Server
-* APIs e integrações
+* APIs Rest e Integrações
 * HTML / CSS / JavaScript
-* Regras de negócio
-* Testes e manutenção
+* Regras de Negócio
+* Testes e Manutenção
 
 ---
 
 ### 📊 GitHub
 
 <p>
-    <img
-        align="left"
-        alt="GitHub Stats"
-        height="180"
-        src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
-
-```
-<img
-    align="left"
-    alt="Top Languages"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-/>
-```
-
+    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/)
 </p>
