@@ -65,26 +65,19 @@ Atuação no **Sistema de Gestão do Código de Posturas** (SEPLAN), envolvendo:
 - HTML / CSS / JavaScript
 - Regras de negócio, testes e manutenção
 
-> 🔒 Os projetos da prefeitura são privados, então as estatísticas abaixo mostram apenas a parte pública da minha atividade.
-
 ---
 
 ### 📊 GitHub Status
 
 <p align="center">
-  <img height="170" alt="GitHub Stats"
+  <img alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="170" alt="Linguagens mais usadas"
+</p>
+
+<!-- Ative quando tiver repositórios públicos com código:
+<p align="center">
+  <img alt="Linguagens mais usadas"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
-</p>
-
-<p align="center">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark&hide_border=true" />
-</p>
-
-<!-- Opcional: gráfico de atividade
-<p align="center">
-  <img alt="Atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true" />
 </p>
 -->
 
