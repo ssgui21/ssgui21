@@ -70,9 +70,3 @@ Atuação no desenvolvimento de sistemas web, envolvendo:
 - APIs REST e integrações
 - HTML / CSS / JavaScript
 - Regras de negócio, testes e manutenção
-
----
-
-<p align="center">
-  <em>Sempre aprendendo, sempre evoluindo. 💙</em>
-</p>
