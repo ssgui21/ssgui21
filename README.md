@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Guilherme</h1>
+<h1 align="center">Olá, eu sou o Guilherme 👋🇧🇷</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack C# / .NET</strong> 🚀
@@ -6,16 +6,15 @@
 
 <p align="center">
   Estudante de Sistemas de Informação e estagiário na <strong>Prefeitura Municipal de Praia Grande</strong>,
-  com foco no ecossistema <strong>C#/.NET</strong>. Desenvolvo e evoluo o
-  <strong>Sistema de Gestão do Código de Posturas</strong>, trabalhando com aplicações web,
+  com foco no ecossistema <strong>C#/.NET</strong>. Trabalho com aplicações web,
   APIs REST, banco de dados e integrações.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/guilherme-santos-da-silva-4780a9296">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:guilhermesantosdasilva583@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
@@ -24,7 +23,7 @@
 
 ### 🎯 O que eu faço
 
-- 🏛️ Desenvolvo sistemas para a gestão pública municipal
+- 🌱 Estou sempre aprendendo e evoluindo no ecossistema **C#/.NET**
 - 🔧 Construo aplicações web com **ASP.NET Core** e **Razor**
 - 🗄️ Modelo e consulto dados com **Entity Framework Core** e **SQL Server**
 - 🔌 Crio e consumo **APIs REST** e integrações
@@ -42,15 +41,16 @@
   <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
   <img alt="SQL Server" title="SQL Server" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
-  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
+    <img alt="GitHub" title="GitHub" width="40" src="https://cdn.simpleicons.org/github/ffffff" />
+  </picture>
 </p>
 
 **Back-end:** C# · .NET · ASP.NET Core · Entity Framework Core · APIs REST
-<br>
 **Front-end:** Razor · HTML · CSS · JavaScript
-<br>
 **Banco de dados:** SQL Server
-<br>
 **Ferramentas:** Git · GitHub · Visual Studio
 
 ---
@@ -59,7 +59,7 @@
 
 **Prefeitura Municipal de Praia Grande** · `Estagiário de Sistemas da Informação` · desde fev/2026
 
-Atuação no **Sistema de Gestão do Código de Posturas** (SEPLAN), envolvendo:
+Atuação no desenvolvimento de sistemas web, envolvendo:
 
 - Desenvolvimento Full Stack com C# / .NET
 - ASP.NET Core / Razor
@@ -67,3 +67,9 @@ Atuação no **Sistema de Gestão do Código de Posturas** (SEPLAN), envolvendo:
 - APIs REST e integrações
 - HTML / CSS / JavaScript
 - Regras de negócio, testes e manutenção
+
+---
+
+<p align="center">
+  <em>Sempre aprendendo, sempre evoluindo. 💙</em>
+</p>
