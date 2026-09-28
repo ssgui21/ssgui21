@@ -80,3 +80,15 @@ Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, e
 * HTML / CSS / JavaScript
 * Regras de negócio
 * Testes e manutenção
+
+---
+
+* ### 📊 GitHub Status
+
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
