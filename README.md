@@ -4,16 +4,6 @@
 
 Estudante de Sistemas de Informação e desenvolvedor com foco no ecossistema **C#/.NET**. Atualmente atuo no desenvolvimento e evolução do **Sistema de Gestão do Código de Posturas**, trabalhando com aplicações web, APIs REST, banco de dados e integrações.
 
-<p align="left">
-    <a href="https://github.com/">
-        <img
-            alt="GitHub"
-            title="GitHub"
-            src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 💻 Tecnologias
@@ -90,3 +80,18 @@ Atuação no desenvolvimento do **Sistema de Gestão do Código de Posturas**, e
 * HTML / CSS / JavaScript
 * Regras de negócio
 * Testes e manutenção
+
+---
+
+### 📊 GitHub
+
+<p align="left">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&langs_count=8&locale=pt-br"
+  />
+</p>
