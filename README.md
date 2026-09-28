@@ -46,8 +46,11 @@
 </p>
 
 **Back-end:** C# · .NET · ASP.NET Core · Entity Framework Core · APIs REST
+<br>
 **Front-end:** Razor · HTML · CSS · JavaScript
+<br>
 **Banco de dados:** SQL Server
+<br>
 **Ferramentas:** Git · GitHub · Visual Studio
 
 ---
@@ -64,25 +67,3 @@ Atuação no **Sistema de Gestão do Código de Posturas** (SEPLAN), envolvendo:
 - APIs REST e integrações
 - HTML / CSS / JavaScript
 - Regras de negócio, testes e manutenção
-
----
-
-### 📊 GitHub Status
-
-<p align="center">
-  <img alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
-</p>
-
-<!-- Ative quando tiver repositórios públicos com código:
-<p align="center">
-  <img alt="Linguagens mais usadas"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
-</p>
--->
-
----
-
-<p align="center">
-  <em>Sempre aprendendo, sempre evoluindo. 💙</em>
-</p>
