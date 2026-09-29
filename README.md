@@ -44,7 +44,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
-    <img alt="GitHub" title="GitHub" width="40" src="https://cdn.simpleicons.org/github/ffffff" />
+    <img alt="GitHub" title="GitHub" width="40" src="https://cdn.simpleicons.org/github/ffffff" />&nbsp;
   </picture>
 </p>
 
