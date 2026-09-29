@@ -1,13 +1,13 @@
 <h1 align="center">Olá, eu sou o Guilherme</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack C# / .NET</strong> 🚀
+  <strong>Desenvolvedor Full Stack C# / .NET</strong>
 </p>
 
 <p align="center">
   Estudante de Sistemas de Informação e estagiário na <strong>Prefeitura Municipal de Praia Grande</strong>,
-  com foco no ecossistema <strong>C#/.NET</strong>. Trabalho com aplicações web,
-  APIs REST, banco de dados e integrações.
+  com foco no ecossistema <strong>C#/.NET</strong>. Atuo no desenvolvimento de aplicações web,
+  integração com APIs REST e trabalho com banco de dados.
 </p>
 
 <p align="center">
@@ -24,10 +24,10 @@
 ### 🎯 O que eu faço
 
 * 🌱 Evoluo continuamente no ecossistema **C#/.NET**
-* 🔧 Construo aplicações web com **ASP.NET Core** e **Razor**
-* 🗄️ Modelo e consulto dados com **Entity Framework Core** e **SQL Server**
-* 🔌 Crio e consumo **APIs REST** e integrações
-* 🎓 Curso Sistemas de Informação (bacharelado, previsão de conclusão: dez/2027)
+* 🔧 Desenvolvo aplicações web com **ASP.NET Core** e **Razor**
+* 🗄️ Trabalho com **Entity Framework Core** e **SQL Server**
+* 🔌 Consumo **APIs REST** e atuo em integrações
+* 🎓 Curso Sistemas de Informação, com conclusão prevista para dez/2027
 
 ---
 
@@ -48,10 +48,10 @@
   </picture>
 </p>
 
-**Back-end:** C# · .NET Core · Entity Framework Core · APIs REST <br>
+**Back-end:** C# · .NET · Entity Framework Core · APIs REST <br>
 **Front-end:** Razor · HTML · CSS · JavaScript <br>
 **Banco de dados:** SQL Server <br>
-**Ferramentas:** Git · GitHub · Visual Studio
+**Ferramentas:** Git · Visual Studio
 
 ---
 
@@ -64,15 +64,6 @@ Atuação no desenvolvimento de sistemas web, envolvendo:
 * Desenvolvimento Full Stack com C# / .NET
 * ASP.NET Core / Razor
 * Entity Framework Core e SQL Server
-* APIs REST e integrações
+* Consumo de APIs REST e integrações
 * HTML / CSS / JavaScript
-* Regras de negócio, testes e manutenção
-
-<!-- ### 📊 GitHub Status
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/Guilherme-Santos-da-Silva?style=for-the-badge&label=Seguidores" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/Guilherme-Santos-da-Silva?style=for-the-badge&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/created-at/Guilherme-Santos-da-Silva?style=for-the-badge&label=GitHub%20desde" alt="GitHub desde" />
-</p>
---> 
+* Regras de negócio, testes, debugging e correção de problemas
