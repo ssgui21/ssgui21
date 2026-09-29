@@ -48,7 +48,7 @@
   </picture>
 </p>
 
-**Back-end:** C# · .NET · ASP.NET Core · Entity Framework Core · APIs REST <br>
+**Back-end:** C# · ASP.NET Core · Entity Framework Core · APIs REST <br>
 **Front-end:** Razor · HTML · CSS · JavaScript <br>
 **Banco de dados:** SQL Server <br>
 **Ferramentas:** Git · GitHub · Visual Studio
