@@ -33,10 +33,6 @@
 
 ### 💻 Tecnologias
 
-### 💻 Tecnologias
-
-### 💻 Tecnologias
-
 <p align="left">
   <img alt="C#" title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;
   <img alt=".NET" title=".NET" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
@@ -49,8 +45,11 @@
 </p>
 
 **Back-end:** C# · .NET · ASP.NET Core · Razor Pages · Entity Framework Core
+<br>
 **Front-end:** HTML · CSS · JavaScript
+<br>
 **Banco de dados:** SQL Server
+<br>
 **Versionamento:** Git · GitHub
 
 ---
