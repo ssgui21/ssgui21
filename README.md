@@ -55,7 +55,7 @@
 
 ### 🏛️ Experiência
 
-**Prefeitura Municipal de Praia Grande** · `Estagiário de Sistemas da Informação` · desde fev/2026
+**Prefeitura Municipal de Praia Grande** · `Estagiário de Sistemas de Informação` · desde fev/2026
 
 Atuação no desenvolvimento de sistemas web, envolvendo:
 
