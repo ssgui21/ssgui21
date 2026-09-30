@@ -40,17 +40,16 @@
   <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
   <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
   <img alt="SQL Server" title="SQL Server" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;
-  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
-  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.simpleicons.org/github/181717" />
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
-**Back-end:** C# · .NET · ASP.NET Core · Razor Pages · Entity Framework Core
+**Back-end:** C# · .NET · Entity Framework Core · APIs REST 
 <br>
-**Front-end:** HTML · CSS · JavaScript
+**Front-end:** Razor Pages · HTML · CSS · JavaScript 
 <br>
-**Banco de dados:** SQL Server
+**Banco de dados:** SQL Server 
 <br>
-**Versionamento:** Git · GitHub
+**Versionamento:** Git · Azure DevOps
 
 ---
 
