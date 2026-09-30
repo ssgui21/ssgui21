@@ -24,7 +24,7 @@
 ### 🎯 O que eu faço
 
 * 🌱 Evoluo continuamente no ecossistema **C#/.NET**
-* 🔧 Desenvolvo aplicações web com **ASP.NET Core** e **Razor**
+* 🔧 Desenvolvo aplicações web com **ASP.NET Core** e **Razor Pages**
 * 🗄️ Trabalho com **Entity Framework Core** e **SQL Server**
 * 🔌 Consumo **APIs REST** e atuo em integrações
 * 🎓 Curso Sistemas de Informação, com conclusão prevista para dez/2027
@@ -43,9 +43,9 @@
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
-**Back-end:** C# · .NET · Entity Framework Core · APIs REST 
+**Back-end:** C# · .NET · ASP.NET Core · Entity Framework Core · Razor Pages · APIs REST 
 <br>
-**Front-end:** Razor Pages · HTML · CSS · JavaScript 
+**Front-end:** HTML · CSS · JavaScript 
 <br>
 **Banco de dados:** SQL Server 
 <br>
