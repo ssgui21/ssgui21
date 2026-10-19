@@ -30,7 +30,7 @@
 * 🔌 Integração e consumo de APIs
 * 🧪 Testes, depuração de código e correção de erros
 * 📝 Elaboração e atualização de documentação técnica
-* 🎓 Estudante de Sistemas de Informação, com conclusão prevista para dez/2027
+* 🎓 Curso de Sistemas de Informação, com conclusão prevista para dez/2027
 
 ---
 
