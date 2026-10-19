@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Guilherme</h1>
 
 <p align="center">
-  <strong>Desenvolvedor de Sistemas</strong>
+  <strong>Desenvolvedor .NET</strong>
 </p>
 
 <p align="center">
@@ -22,15 +22,15 @@
 
 ### 🎯 O que eu faço
 
-* 🔎 Analiso requisitos e regras de negócio, identificando necessidades e comportamentos esperados do sistema
-* 🧩 Implemento funcionalidades e regras de negócio, estruturando fluxos e comportamentos da aplicação
-* 💻 Desenvolvo sistemas web atuando nas diferentes camadas da solução
-* 🗄️ Trabalho com modelagem, persistência, consultas e manipulação de dados
-* 🔌 Realizo integração e consumo de APIs para comunicação entre sistemas e componentes
-* 🧪 Realizo testes, debugging e correção de problemas durante o desenvolvimento
-* 🔧 Evoluo e mantenho funcionalidades existentes conforme novos requisitos e necessidades do sistema
-* 📝 Produzo documentação técnica relacionada ao desenvolvimento e às funcionalidades implementadas
-* 🎓 Curso Sistemas de Informação, com conclusão prevista para dez/2027
+* 🔎 Análise de requisitos e regras de negócio
+* 🧩 Desenvolvimento de funcionalidades para sistemas web
+* 💻 Desenvolvimento e manutenção de aplicações
+* 🎨 Criação e ajustes de interfaces pensando nas necessidades dos usuários
+* 🗄️ Modelagem e manipulação de dados
+* 🔌 Integração e consumo de APIs
+* 🧪 Testes, depuração de código e correção de erros
+* 📝 Elaboração e atualização de documentação técnica
+* 🎓 Estudante de Sistemas de Informação, com conclusão prevista para dez/2027
 
 ---
 
@@ -46,8 +46,8 @@
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
-**Back-end:** C# · .NET · ASP.NET Core · Entity Framework Core · Razor Pages · APIs REST <br>
-**Front-end:** HTML · CSS · JavaScript <br>
+**Back-end:** C# · .NET · ASP.NET Core · Entity Framework Core · APIs REST <br>
+**Front-end:** Razor Pages · HTML · CSS · JavaScript <br>
 **Banco de dados:** SQL Server <br>
 **Versionamento:** Git · Azure DevOps
 
@@ -57,12 +57,12 @@
 
 **Prefeitura Municipal de Praia Grande** · `Estagiário de Sistemas de Informação` · desde fev/2026
 
-Atuação no desenvolvimento e evolução de sistemas web, envolvendo:
+Atuação no desenvolvimento e na manutenção de sistemas web, envolvendo:
 
-* Análise e implementação de requisitos e regras de negócio
-* Desenvolvimento de funcionalidades com **C# / .NET** e **ASP.NET Core / Razor Pages**
-* Construção de interfaces com **Razor, HTML, CSS e JavaScript**
-* Modelagem, persistência e consulta de dados com **Entity Framework Core** e **SQL Server**
+* Desenvolvimento full stack de sistemas web com **C#, ASP.NET Core, Entity Framework Core e SQL Server**
+* Análise de requisitos e implementação de funcionalidades e regras de negócio
+* Design e desenvolvimento de interfaces web com **Razor Pages, HTML, CSS e JavaScript**
 * Integração e consumo de **APIs REST**
-* Testes, debugging e correção de problemas
-* Documentação técnica e acompanhamento do desenvolvimento
+* Modelagem e manipulação de dados com **Entity Framework Core e SQL Server**
+* Testes, depuração de código e correção de problemas durante o desenvolvimento
+* Elaboração e atualização de documentação técnica dos sistemas
